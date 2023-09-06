@@ -7,5 +7,8 @@
 
 Excel \ python \ matplotlib
 
-
+Excel
 https://docs.google.com/spreadsheets/d/1jTgT_ikA6h0k_d7blaz0MI08SqOFIW_BgdbgvR4mrH8/edit?usp=sharing
+
+Replit
+https://replit.com/@FominIgor/Chisliennyie-mietody
