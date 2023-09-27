@@ -13,6 +13,9 @@ https://docs.google.com/spreadsheets/d/1jTgT_ikA6h0k_d7blaz0MI08SqOFIW_BgdbgvR4m
 Replit
 https://replit.com/@FominIgor/Chisliennyie-mietody
 
+Отчет
+https://docs.google.com/document/d/15L6lEZ3PUgEmPXUgQLlugPgZ2TX_LvW7HVkoc3GWLXQ/edit?usp=sharing
+
 
 Задание : решить слау или решить систему уравнений.
 
