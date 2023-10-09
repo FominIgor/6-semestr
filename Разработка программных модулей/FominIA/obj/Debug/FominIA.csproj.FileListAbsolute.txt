@@ -1,0 +1,15 @@
+C:\Users\Администратор\source\repos\FominIA\FominIA\bin\Debug\FominIA.exe.config
+C:\Users\Администратор\source\repos\FominIA\FominIA\bin\Debug\FominIA.exe
+C:\Users\Администратор\source\repos\FominIA\FominIA\bin\Debug\FominIA.pdb
+C:\Users\Администратор\source\repos\FominIA\FominIA\obj\Debug\FominIA.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\FominIA\FominIA\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\source\repos\FominIA\FominIA\obj\Debug\App.g.cs
+C:\Users\Администратор\source\repos\FominIA\FominIA\obj\Debug\FominIA_MarkupCompile.cache
+C:\Users\Администратор\source\repos\FominIA\FominIA\obj\Debug\FominIA_MarkupCompile.lref
+C:\Users\Администратор\source\repos\FominIA\FominIA\obj\Debug\MainWindow.baml
+C:\Users\Администратор\source\repos\FominIA\FominIA\obj\Debug\FominIA.g.resources
+C:\Users\Администратор\source\repos\FominIA\FominIA\obj\Debug\FominIA.Properties.Resources.resources
+C:\Users\Администратор\source\repos\FominIA\FominIA\obj\Debug\FominIA.csproj.GenerateResource.cache
+C:\Users\Администратор\source\repos\FominIA\FominIA\obj\Debug\FominIA.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\FominIA\FominIA\obj\Debug\FominIA.exe
+C:\Users\Администратор\source\repos\FominIA\FominIA\obj\Debug\FominIA.pdb
