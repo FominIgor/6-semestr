@@ -4,6 +4,9 @@ https://docs.google.com/document/d/1atTFXfLLr53zHgGnIKeJfmk5y2JKYpSx6LrVhaCHSIs/
 Ссылка на тест "Код будущкго"
 https://docs.google.com/document/d/19Y03zA8jLzfcp0nJtw045T5bAWAnI2C4hePLqZ4XIDI/edit?usp=sharing
 
+Прототип настольного приложения
+https://www.figma.com/file/enl7HukB9lkjdPMzhWakKf/Untitled?type=design&node-id=0-1&mode=design&t=Pj8LxWGoIx51nmdO-0
+
 Приложение состоит из двух частей: фронтенд и бекэнд
 
 Фронтенд:
