@@ -9,6 +9,6 @@ https://drive.google.com/drive/folders/1lNLFM20s77SXoCcOqi-2pX7qxbI9sT8Y?usp=sha
 
 ТГ бот день 1 и 2. (https://t.me/TestFomin_bot)
 
-День 3 - парсинг сайта
+День 3 - парсинг сайта https://docs.google.com/spreadsheets/d/1GxZeRH_R8vyso8lTNSgUQSvf2nR-HGV_/edit?usp=sharing&ouid=115655321341216663504&rtpof=true&sd=true
 
-День 4 - 
+День 4 - веб-страница на Flask
