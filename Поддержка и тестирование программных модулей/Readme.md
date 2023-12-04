@@ -14,3 +14,6 @@ https://drive.google.com/drive/folders/1lNLFM20s77SXoCcOqi-2pX7qxbI9sT8Y?usp=sha
 День 4 - веб-страница на Flask http://igorfomin.pythonanywhere.com/ 
 
 https://igorfomin.pythonanywhere.com/hello/
+
+
+2024 https://drive.google.com/drive/folders/15Zi1urpAKy1HMHHgscGRwn_uGXQo_FTo
