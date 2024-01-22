@@ -43,3 +43,6 @@
 
 ![image](https://github.com/FominIgor/6-semestr/assets/113089549/744c2bdc-06e9-41fe-9ddd-60c9f5c64b12)
 
+**Пример дифектов*
+1. Некоректные требывания: прямоугольный квадрат  
+
