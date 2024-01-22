@@ -1,4 +1,18 @@
 # ЛК1 22.01.2024 Основы тестирования.
 
+Маленькая
+![image](https://github.com/FominIgor/6-semestr/assets/113089549/a1249910-e2ce-4a78-9c6d-f915b36bebe1)
+![image](https://github.com/FominIgor/6-semestr/assets/113089549/cadd5561-15a2-4948-a249-531b239d4f93)
+
+Средняя
+![image](https://github.com/FominIgor/6-semestr/assets/113089549/f6ca1de8-a648-4950-b476-afb65c93ecaa)
+![image](https://github.com/FominIgor/6-semestr/assets/113089549/a68563c9-a49e-46ac-9579-098714f0c4c9)
+
+Высокая 
+![image](https://github.com/FominIgor/6-semestr/assets/113089549/cc441ba0-b7ff-4447-a27d-4ea7135632bf)
+![image](https://github.com/FominIgor/6-semestr/assets/113089549/5a82d77f-68db-4645-8cf6-55afc8674251)
+
+
+
 
 
